@@ -698,3 +698,12 @@ header.sticky {
         width: 310px;
     }
 }
+
+@media (max-width: 370px){
+    .home img{
+        background-image: url('pexels-dids-2378811.jpg');
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
