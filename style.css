@@ -117,7 +117,8 @@ section {
     min-height: 100vh;
     height: 100%;
     width: 100%;
-    background: url('pexels-dids-2378811.jpg');
+    background-color: #0e141f; 
+/*     background: url('pexels-dids-2378811.jpg'); */
     background-size: cover;
     background-position: center;
     position: relative;
